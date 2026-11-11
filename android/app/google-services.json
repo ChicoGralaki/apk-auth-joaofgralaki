@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660067110515",
+    "project_id": "apk-auth-joaofgralaki",
+    "storage_bucket": "apk-auth-joaofgralaki.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660067110515:android:c71be441ed1663a66a2406",
+        "android_client_info": {
+          "package_name": "com.example.apk_auth_joaofgralaki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4r6mq_WNJ6yrK6A4LTfmy5hIRM0-lvQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
